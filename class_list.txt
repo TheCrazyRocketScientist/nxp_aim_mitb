@@ -1,0 +1,9 @@
+banana
+car
+clock
+cup
+horse
+potted plant
+qr
+teddy bear
+zebra
